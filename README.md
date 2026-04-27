@@ -1,6 +1,9 @@
 
 
-# Patch-based Age Prediction for AD
+# PANDA: Patch-based Unsupervised Deep Learning for Brain Anomaly Detection via Age Prediction in Fetal MRI
+
+Under Revision at *Imaging Neuroscience*
+
 ### 🎯 **Multi-Disease Fetal Brain Anomaly Detection Using Brain Age Prediction: A Patch-based Deep Learning Framework**
 
 ## Download pretrained model [here](https://drive.google.com/file/d/1al1h63eVkVSexq1j77lpTFEY_zyYgfzt/view?usp=sharing)
